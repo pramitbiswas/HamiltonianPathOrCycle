@@ -23,7 +23,7 @@
 %
 % P = hamiltonianPath(g,s,d);
 %
-% P will be a array mentioning the path/cycle, if path/cycle found; or a
+% P will be an array mentioning the path/cycle, if path/cycle found; or a
 % string: 'No Path Found', if path/cycle not found
 %
 % #Note: This code can be used for finding Hamiltonian cycle also. For
